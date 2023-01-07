@@ -46,7 +46,4 @@ function convert(){
 
     metric.value = null;
 
-
-
-
 }
